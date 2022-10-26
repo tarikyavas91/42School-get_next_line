@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_bonus.h                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
+/*   By: tyavas <tyavas@student.42kocaeli.com.tr.   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/24 23:02:08 by marvin            #+#    #+#             */
 /*   Updated: 2022/10/24 23:02:18 by marvin           ###   ########.fr       */
